@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Repositorio de prueba del curso
+Este proyecto es como clonar de Github a mi escritorio
+
